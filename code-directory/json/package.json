@@ -1,0 +1,19 @@
+{
+  "name": "code-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node feed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "johnny-five": "^2.1.0",
+    "pubnub": "^5.0.1"
+  }
+}
