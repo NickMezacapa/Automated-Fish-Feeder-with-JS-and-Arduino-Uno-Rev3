@@ -1,5 +1,3 @@
-// Below is all code for front-end:
-
 const feed = document.querySelector("#feed");
 const feedings_container = document.querySelector(".feedings");
 const feedings_zero = document.querySelector("#feedings-zero");
